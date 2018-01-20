@@ -1,2 +1,2 @@
-# Mancala_2_player_game
-2 player game
+# Mancala - 2 player game
+Rules on http://www.mathplayground.com/mancala.html
